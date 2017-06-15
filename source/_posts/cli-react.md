@@ -2,7 +2,7 @@
 title: 两个cli
 date: 2017-05-13 21:34:52
 tags: [cli,react]
-category: [react,javascript]
+category: [react]
 ---
 
 ## 前言
