@@ -42,7 +42,7 @@ npm install ws --save
 ### Demo
 
 <a href="/show/websocket.html">新窗口打开</a>
-服务端随时可能关闭，仅供测试。
+~~服务端随时可能关闭，仅供测试。~~  **已关闭**
 
 #### tips
 

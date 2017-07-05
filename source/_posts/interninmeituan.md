@@ -1,7 +1,7 @@
 ---
 title: 实习
 date: 2017-03-10 23:29:45
-tags: [杂other]
+tags: [杂,other]
 category: [杂]
 ---
 
