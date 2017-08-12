@@ -79,11 +79,3 @@ deploy:
 - type: git
   repo: git@git.coding.net:tinytin/tinytin.git
   branch: coding-pages
-
-# deploy:
-# - type: git
-#   repo: https://github.com/GaryChangCN/garychangcn.github.io.git
-#   branch: master
-# - type: git
-#   repo: git@git.coding.net:tinytin/tinytin.git
-#   branch: coding-pages

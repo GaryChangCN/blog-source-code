@@ -7,6 +7,10 @@ tags:
 category: 作品
 ---
 
+## 更新
+
+现在开发了新版本 [多房间聊天室](/2017/07/26/multiRoomChat/)
+
 ## websocket
 
 html5 新api，用于实现持久化连接，且不收跨域影响。通过HTTP 的Updrade头来升级协议。
