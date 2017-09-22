@@ -1,10 +1,7 @@
 ---
 title: node.js 操作 mongodb 以及 mongoose 使用
 date: 2016-10-25 21:01:59
-tags:
-	 - javascript
-	 - node.js
-     - mongodb
+tags: [javascript, node.js, mongodb]
 category: 杂
 ---
 

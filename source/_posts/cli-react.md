@@ -1,21 +1,21 @@
 ---
-title: 两个cli
+title: 两个template
 date: 2017-05-13 21:34:52
-tags: [cli,react]
+tags: [template,react]
 category: [react]
 ---
 
 ## 前言
 
-为了日常及工作使用，我写了两个构建工具模板 [react-webpack-typescript-cli](https://github.com/GaryChangCN/react-webpack-typescript-cli)
-和[react-redux-cli](https://github.com/GaryChangCN/react-redux-cli)
+为了日常及工作使用，我写了两个构建工具模板 [react-webpack-typescript-template](https://github.com/GaryChangCN/react-webpack-typescript-template)
+和[react-redux-template](https://github.com/GaryChangCN/react-redux-template)
 
 <!--more-->
 
 ## 使用redux
 
 ```
-git clone git@github.com:GaryChangCN/react-redux-cli.git
+git clone git@github.com:GaryChangCN/react-redux-template.git
 yarn install
 yarn run dev //开发环境
 yarn run build //生产环境
@@ -25,7 +25,7 @@ yarn run build //生产环境
 ## 使用typescript
 
 ```
-git clone git@github.com:GaryChangCN/react-webpack-typescript-cli.git
+git clone git@github.com:GaryChangCN/react-webpack-typescript-template.git
 yarn install
 yarn run dev //开发环境
 yarn run build //生产环境
