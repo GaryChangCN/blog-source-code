@@ -37,11 +37,3 @@ npm start
 //之后修改客户端和控制端 websocket 协议的地址为你服务端所在的局域网地址
 
 ```
-
-## 示例
-
-<!-- ![示例图片](/images/gyrscopeDemo.gif) -->
-
-<!-- <video src="http://7xw4hd.com1.z0.glb.clouddn.com/gyrscope.mp4" controls="controls" width="300px"></video> -->
-
-<!-- [演示视频](http://7xw4hd.com1.z0.glb.clouddn.com/gyrscope.mp4) -->

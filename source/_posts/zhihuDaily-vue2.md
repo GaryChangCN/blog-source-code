@@ -53,9 +53,6 @@ api来源于 [@izzyleung](https://github.com/izzyleung/ZhihuDailyPurify) 并使�
 ## 截图 
 
 ### 2.0版本
-<!-- ![图片一](http://7xw4hd.com1.z0.glb.clouddn.com/zhihuvue2-1.png-scale50)
-![图片二](http://7xw4hd.com1.z0.glb.clouddn.com/zhihuvue2-2.png-scale50)
-![图片三](http://7xw4hd.com1.z0.glb.clouddn.com/zhihuvue2-3.png-scale50) -->
 
 ## License
 
